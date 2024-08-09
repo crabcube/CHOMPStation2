@@ -998,7 +998,8 @@ var/global/list/selectable_speech_bubbles = list(
 	"notepad",
 	"science",
 	"engineering",
-	"cargo")
+	"cargo"
+	"feather" // CHOMPEDIT )
 
 
 
